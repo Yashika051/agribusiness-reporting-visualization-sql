@@ -112,7 +112,7 @@ agribusiness-reporting-visualization/
 │   └── week4_agribusiness_reporting.sql
 │
 ├── report/
-│   └── Week_4_Project_Report.docx
+│   └── SQL Data Analyst - Agribusiness _ Week 4.pdf
 │
 ├── visualizations/
 │   ├── total_production_by_crop.png
