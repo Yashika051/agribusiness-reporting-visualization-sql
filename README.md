@@ -143,9 +143,13 @@ This project demonstrates the ability to:
 ## 🎓 Internship Context
 
 **Program:** Yuva Intern Program
+
 **Organization:** Henry Harvin
+
 **Internship:** SQL Data Analyst - Agribusiness
+
 **Week:** 4
+
 **Project:** Reporting and Visualization for Agribusiness Insights
 
 ---
